@@ -1,0 +1,33 @@
+[
+{
+		"city":{
+			"cityId":12,
+			"cityName": "Bristol"
+		},
+		"currentConditions":"Light clouds",
+		"temperature": 5,
+		"wind":{
+			"windSpeed":25,
+			"windDirection": "South easterly",
+			"windChillFactor":2
+		}
+
+	},
+	{
+		"city":{
+			"cityId":12,
+			"cityName": "Bristol"
+		},
+		"currentConditions":"Light clouds",
+		"temperature": 5,
+		"wind":{
+			"windSpeed":25,
+			"windDirection": "South easterly",
+			"windChillFactor":2
+		}
+
+	}
+]
+
+	
+

@@ -1,5 +1,8 @@
-# web-data-with-JSON-AND-AJAX
+# Web-data-with-JSON-AND-AJAX
 School project
-Web Data with XML, JSON and AJAX
-JSON:with a structure capable of holding
+Current Weather Application
+-JSON:with a structure capable of holding
 current weather data for cities across the UK
+-will extract data from
+weather.json, and display that data on a HTML page (weather.html) in
+table format.
